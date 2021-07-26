@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "458599111496",
+    "project_id": "cmso-a0feb",
+    "storage_bucket": "cmso-a0feb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458599111496:android:8b2168d4b56a594b03317d",
+        "android_client_info": {
+          "package_name": "com.cmso"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "458599111496-m724g2v5g71d5q5vnjmbcem3uq936nse.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsArNuKXkvZCtfhaipcAmReEFC_s7wHec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "458599111496-m724g2v5g71d5q5vnjmbcem3uq936nse.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
